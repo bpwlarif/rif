@@ -2,7 +2,7 @@
 <h2>WWW.MALASNGODING.COM</h2>
 <h3>Tambah Data User</h3>
 
-<form action="../Controller/proses.php?aksi=tambah" method="post">
+<form action="proses.php?aksi=tambah" method="post">
 
     <table>
         <tr>
